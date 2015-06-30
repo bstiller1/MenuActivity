@@ -9,4 +9,6 @@
     <string name="about">About</string>
     <string name="title_activity_help">Help Activity</string>
     <string name="title_activity_about">About Activity</string>
+    <string name="action_location">Location</string>
+    <string name="save">Save</string>
 </resources>
